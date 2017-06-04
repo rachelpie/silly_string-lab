@@ -23,7 +23,7 @@ Write your code and test it out manually by running `ruby silly_string.rb` in th
 
 7. Let's take the string `"Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"`. We want to use the `gsub` method to switch all `A`s for `O`s, as well as all `a`s for `o`s. We'll need to chain `gsub`s.
 
-8. Save each of the following strings to its own variable, then concatenate the variables in the order of the Kode with Klossy Camps!
+8. Save each of the following strings to its own variable, then concatenate the variables in the order of the Kode with Klossy Camps! You can see the schedule [here](https://www.kodewithklossy.com/youth-scholarship).
 
   + "Chicago"
   + "Los Angeles"
@@ -32,3 +32,4 @@ Write your code and test it out manually by running `ruby silly_string.rb` in th
   + "Detroit"
   + "Oakland"
   + "Austin"
+  
